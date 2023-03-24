@@ -1,2 +1,2 @@
 # Desafio-Teste-Target
-Teste/Desafio para candidato ao estágio
+Teste/Desafio para candidato à estagiário.
